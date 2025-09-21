@@ -28,9 +28,9 @@ const builds = [
         builder: "TheBiswas001",
         category: "other"
     },
-     {
-        title: "Morden House",
-        description: "BEST MORDEN HOUSE WITH SWIMMING POOL.",
+       {
+        title: "India Gate",
+        description: "INDIA GATE with automated lighting, and a beautiful garden.",
         images: [
             "https://i.postimg.cc/hhFDCjY5/Screenshot-2025-09-21-155131.png",
             "https://i.postimg.cc/g0M6gVHt/Screenshot-2025-09-21-155632.png",
@@ -39,7 +39,7 @@ const builds = [
         ],
         builder: ".OPHYPER",
         category: "house"
-    },
+    }
     // ADD MORE BUILDS HERE
     // {
     //     title: "Your Build Name",
@@ -648,5 +648,4 @@ if (typeof module !== 'undefined' && module.exports) {
         openImageGallery,
         builds
     };
-
 }
