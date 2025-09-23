@@ -30,7 +30,7 @@ const builds = [
     },
        {
         title: "India Gate",
-        description: "INDIA GATE with automated lighting, and a beautiful garden.",
+        description: "Morden House with swimming pool build by OPHYPER.",
         images: [
             "https://i.postimg.cc/hhFDCjY5/Screenshot-2025-09-21-155131.png",
             "https://i.postimg.cc/g0M6gVHt/Screenshot-2025-09-21-155632.png",
@@ -649,3 +649,4 @@ if (typeof module !== 'undefined' && module.exports) {
         builds
     };
 }
+
